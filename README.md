@@ -1,16 +1,16 @@
 ##  Amazon_Vine_Analysis by Nayan Patel(PM)
 
-## Project Owner: Jennifer
+# Project Owner: Jennifer
 
-## Project Sponser : SellBy stakeholders.
+# Project Sponser : SellBy stakeholders.
 
-## Project Purpose : analyzing Amazon reviews
+# Project Purpose : analyzing Amazon reviews
 
-## Project Purpose: 
+# Project Purpose: 
 
 The Amazon Vine program is a service that allows manufacturers and publishers to receive reviews for their products. Companies pay a small fee to Amazon and provide products to Amazon Vine members, who are then required to publish a review.
 
-So,  analyzing Amazon reviews written by members of the paid Amazon Vine program cna help find summary analysis
+So,  analyzing Amazon reviews written by members of the paid Amazon Vine program can help find summary analysis
 
 ## Resurces: 
 
