@@ -2,7 +2,7 @@
 
 # Project Owner: Jennifer
 
-# Project Sponser : SellBy stakeholders.
+# Project Sponsor : SellBy stakeholders.
 
 # Project Purpose : analyzing Amazon reviews
 
